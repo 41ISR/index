@@ -19,7 +19,9 @@ _Отработка выдается согласно посещаемости. 
 
 #### React
 
-- [Лабораторная React](https://github.com/41ISR/webdev-react-lab)
+##### Props
+
+- [Лабораторная Props](https://github.com/41ISR/webdev-props-lab)
 
 ## Как выполнять задания
 
