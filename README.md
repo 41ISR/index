@@ -10,7 +10,7 @@
 1. [Документация](#документация)
 1. [Полезное](#полезное)
 
-## Roadmap
+## Roadmap WebDev
 
 ### Лабораторные
 
@@ -24,6 +24,10 @@ _Отработка выдается согласно посещаемости. 
 ##### Props
 
 - [Лабораторная Props](https://github.com/41ISR/webdev-props-lab)
+
+## Roadmap WebSec
+
+- [Лабораторная nginx](https://github.com/41ISR/websec-nginx-lab)
 
 ## Как выполнять задания
 
