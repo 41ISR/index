@@ -1,6 +1,8 @@
 # Разработка пользовательских интерфейсов
 
 https://meet.jit.si/41isr
+https://telemost.yandex.ru/j/21049538844602?skip_app=1
+
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1M-I0suwDAB-sjGJGteHfa0wlMtnl1hFJ/edit?gid=143927856#gid=143927856)
