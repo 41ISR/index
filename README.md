@@ -1,7 +1,7 @@
 # Разработка пользовательских интерфейсов
 
-[Jitsi](https://meet.jit.si/41isr)
-[Телемост](https://telemost.yandex.ru/j/21049538844602?skip_app=1)
+- [Jitsi](https://meet.jit.si/41isr)
+- [Телемост](https://telemost.yandex.ru/j/21049538844602?skip_app=1)
 
 ## Инструкция
 
