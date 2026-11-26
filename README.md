@@ -33,13 +33,26 @@ _Отработка выдается согласно посещаемости. 
 
 #### React
 
-##### Props
-
+- [Аудиторная Props](https://github.com/41ISR/webdev-props)
 - [Лабораторная Props](https://github.com/41ISR/webdev-props-lab)
+
+- [Аудиторная Hooks](https://github.com/41ISR/webdev-hooks)
+- [Лабораторная Hooks](https://github.com/41ISR/webdev-hooks-lab)
+- 
+- [Аудиторная Router](https://github.com/41ISR/webdev-router)
+- [Лабораторная Router](https://github.com/41ISR/webdev-router-lab)
+- 
+- [Аудиторная Fetch](https://github.com/41ISR/webdev-fetch)
+- [Лабораторная Fetch](https://github.com/41ISR/webdev-fetch-lab)
+- 
+- [Аудиторная Auth](https://github.com/41ISR/webdev-auth)
+- [Лабораторная Auth](https://github.com/41ISR/webdev-auth-lab)
+
 
 ## Roadmap WebSec
 
 - [Лабораторная nginx](https://github.com/41ISR/websec-nginx-lab)
+- [Лабораторная по поднятию selfhosted приложения](https://github.com/41ISR/websec-app-lab)
 
 ## Как выполнять задания
 
